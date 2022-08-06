@@ -1,2 +1,2 @@
-sudo cp pf /usr/local/bin
-
+cp usr_local_bin/* /usr/local/bin
+cp dot.kermrc /root/.kermrc

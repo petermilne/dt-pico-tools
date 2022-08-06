@@ -1,0 +1,4 @@
+
+ls -l /dev/tty* | grep -v tty[0-9]*$ | grep -v ttyprintk
+
+
